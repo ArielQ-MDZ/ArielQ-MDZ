@@ -1,6 +1,6 @@
-# Hi 👋
+# 👋 Hi
 
-> I'm a software developer based in Mendoza, Argentina 🌊 with more 10 years of experience in the software industry.
+I'm a software developer based in Mendoza, Argentina 🌊 with more 10 years of experience in the software industry.
 
 # ☎️ Contact information
 
@@ -12,7 +12,7 @@
 
 # **👩🏻‍💻** Work experience
 
-Foca Software*, Argentina – (more 10 years)*
+*Foca Software*, Argentina – (more 10 years)
 
 **Developer and SysAdmin SR.
 Power BI Data Analytcs Specialist
@@ -48,7 +48,7 @@ Functional Analyst Level 3**
 
 ## 🗣 Languages
 
-### Spanish 🇪🇸🇦🇷
+### Spanish 🇪🇸 🇦🇷
 
 Native speaker
 
@@ -60,6 +60,6 @@ Minimal Speech and Intermediate Writing
 
 # 📚 Education
 
-2016 - *2017* 
+*2016 - 2017*
 
 Cisco CCNA - UTN Faculty Regional Mendoza
