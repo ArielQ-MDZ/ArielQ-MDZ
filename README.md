@@ -1,5 +1,4 @@
 # 👋 Hi
-
 My name is Ariel Quintana and i'm a software developer based in Mendoza, Argentina 🍷 with more 10 years of experience in the software industry.
 
 
