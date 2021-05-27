@@ -1,6 +1,8 @@
 # 👋 Hi
 
 My name is Ariel Quintana and i'm a software developer based in Mendoza, Argentina 🍷 with more 10 years of experience in the software industry.
+
+
 # ☎️ Contact information
 
 📧 quintana.ariel.gaston@gmail.com
@@ -17,6 +19,7 @@ My name is Ariel Quintana and i'm a software developer based in Mendoza, Argenti
 + *Power BI Data Analytcs Specialist*
 
 + *Functional Analyst Level 3*
+
 
 
 # 🛠 Skills
@@ -41,6 +44,7 @@ My name is Ariel Quintana and i'm a software developer based in Mendoza, Argenti
 
 ### Git ⭐️⭐️⭐️⭐️⭐️
 
+
 ## 🗣 Languages
 
 ### Spanish 🇪🇸 🇦🇷
@@ -50,6 +54,7 @@ Native speaker
 ### English 🇺🇸
 
 Minimal Speech and Intermediate Writing
+
 
 # 📚 Education
 
