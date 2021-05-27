@@ -12,15 +12,14 @@ My name is Ariel Quintana and i'm a software developer based in Mendoza, Argenti
 
 *Foca Software.* Mendoza, Argentina. – (more 10 years)
 
-+*Developer and SysAdmin SR.*
++ *Developer and SysAdmin SR.*
 
-+*Power BI Data Analytcs Specialist*
++ *Power BI Data Analytcs Specialist*
 
-+*Functional Analyst Level 3*
++ *Functional Analyst Level 3*
 
 
 # 🛠 Skills
-## 💻 Technology
 
 ### Docker ⭐️⭐️⭐️
 
