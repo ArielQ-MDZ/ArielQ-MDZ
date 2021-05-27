@@ -1,29 +1,25 @@
 # 👋 Hi
 
-I'm a software developer based in Mendoza, Argentina 🌊 with more 10 years of experience in the software industry.
-
+My name is Ariel Quintana and i'm a software developer based in Mendoza, Argentina 🍷 with more 10 years of experience in the software industry.
 # ☎️ Contact information
 
 📧 quintana.ariel.gaston@gmail.com
 
 🔗 [LinkedIn](https://www.linkedin.com/in/arielquintana/)
 
----
 
 # **👩🏻‍💻** Work experience
 
-*Foca Software*, Argentina – (more 10 years)
+*Foca Software.* Mendoza, Argentina. – (more 10 years)
 
-*Developer and SysAdmin SR.*
++*Developer and SysAdmin SR.*
 
-*Power BI Data Analytcs Specialist*
++*Power BI Data Analytcs Specialist*
 
-*Functional Analyst Level 3*
++*Functional Analyst Level 3*
 
----
 
 # 🛠 Skills
-
 ## 💻 Technology
 
 ### Docker ⭐️⭐️⭐️
@@ -46,8 +42,6 @@ I'm a software developer based in Mendoza, Argentina 🌊 with more 10 years of 
 
 ### Git ⭐️⭐️⭐️⭐️⭐️
 
----
-
 ## 🗣 Languages
 
 ### Spanish 🇪🇸 🇦🇷
@@ -57,8 +51,6 @@ Native speaker
 ### English 🇺🇸
 
 Minimal Speech and Intermediate Writing
-
----
 
 # 📚 Education
 
