@@ -14,9 +14,11 @@ I'm a software developer based in Mendoza, Argentina 🌊 with more 10 years of 
 
 *Foca Software*, Argentina – (more 10 years)
 
-**Developer and SysAdmin SR.
-Power BI Data Analytcs Specialist
-Functional Analyst Level 3**
+*Developer and SysAdmin SR.*
+
+*Power BI Data Analytcs Specialist*
+
+*Functional Analyst Level 3*
 
 ---
 
